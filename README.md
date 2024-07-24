@@ -22,7 +22,7 @@ source ./env/bin/activate
 ## Install python dependencies 
 
 ```
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Install system dependencies 
